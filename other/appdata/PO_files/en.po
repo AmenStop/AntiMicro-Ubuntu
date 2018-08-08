@@ -56,7 +56,7 @@ msgstr ""
 
 #. (itstool) path: screenshot/caption
 #: antimicro.appdata.xml.in:24
-msgid "Analog Stick Configuration Dialog"
+msgid "Analog Sticks Configuration Dialog"
 msgstr ""
 
 #. (itstool) path: screenshot/image
