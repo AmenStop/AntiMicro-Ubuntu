@@ -2,19 +2,21 @@
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1379712845116" ID="ID_571348173" MODIFIED="1526063409822" TEXT="Antimicro Future Developments">
 <font BOLD="true" NAME="Arial Black" SIZE="18"/>
-<node CREATED="1526058011028" ID="ID_121032400" MODIFIED="1526063318879" POSITION="right" TEXT="Add controller calibration">
+<node CREATED="1526058011028" ID="ID_121032400" MODIFIED="1530549062564" POSITION="right" TEXT="Add controller calibration">
 <font BOLD="true" NAME="Verdana" SIZE="14"/>
 <icon BUILTIN="idea"/>
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_ok"/>
 <node CREATED="1526058584673" ID="ID_380767629" MODIFIED="1526058599436" TEXT="&quot;We should be able to calibrate it by moving it to its extremes after clicking a button so that the software knows the maximum values for both axes, then click &quot;Finish calibrating&quot; when the joystick is at the center so it knows where that is too.&quot;">
 <cloud/>
 <font ITALIC="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1526058231348" ID="ID_912857029" MODIFIED="1526063334597" POSITION="left" TEXT="Create multiple profiles working with Auto Profiles ">
+<node CREATED="1526058231348" ID="ID_912857029" MODIFIED="1531489410252" POSITION="left" TEXT="Create multiple profiles working with Auto Profiles ">
 <font BOLD="true" NAME="Verdana" SIZE="14"/>
 <icon BUILTIN="idea"/>
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_ok"/>
 <node CREATED="1526058437842" ID="ID_49023724" MODIFIED="1526058549973" TEXT="&quot;You have your game profiles that are designed for certain games and will run only when certain games are running. You will have one profile called Media Player which is able to control your media player with your controller. This Media Player profile will always be running no matter what. You will have a mic on/off profile which is able to turn your mic on and off so you can talk by pressing a button with your controller. This profile will only run with selected games you choose it to run with. &#xa;&#xa;With this feature game profiles can be more dynamic since you don&apos;t need to add your media player buttons into every game profile, or if you want to change your mic button instead of editing every game profile you only need to edit one profile.&quot;">
 <cloud/>
 <font ITALIC="true" NAME="SansSerif" SIZE="12"/>
@@ -51,10 +53,11 @@
 <icon BUILTIN="full-8"/>
 <icon BUILTIN="idea"/>
 </node>
-<node CREATED="1526059782198" ID="ID_1400167093" MODIFIED="1526063382016" POSITION="right" STYLE="fork" TEXT="Detecting window title part for loading profiles">
+<node CREATED="1526059782198" ID="ID_1400167093" MODIFIED="1531489340838" POSITION="right" STYLE="fork" TEXT="Detecting window title part for loading profiles">
 <font BOLD="true" NAME="Verdana" SIZE="14"/>
 <icon BUILTIN="full-4"/>
 <icon BUILTIN="yes"/>
+<icon BUILTIN="button_ok"/>
 <node CREATED="1526060105290" ID="ID_1284273032" MODIFIED="1526063382016" TEXT="Why: Full text of window title can be different every time, when it&apos;s started">
 <cloud/>
 <font ITALIC="true" NAME="SansSerif" SIZE="12"/>
