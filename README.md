@@ -1,4 +1,4 @@
-# AntiMicro 2.24
+# AntiMicro 2.24-Ubuntu
 
 1. [Description](#description)  
 2. [License](#license)  
